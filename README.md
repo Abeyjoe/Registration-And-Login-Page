@@ -1,2 +1,2 @@
-# Registration-And-Login-
+# Registration-And-Login-Page
 A simple registration and login system
